@@ -1,1 +1,0 @@
-# backend-greenwiz-img-assignment
